@@ -330,3 +330,4 @@ npm test
   - Integration with RBI Account Aggregator framework for automated bank statement feeds.
   - Push notifications for Android/iOS mobile PWAs.
   - Recurring scheduled subscription manager.
+# FinTrack
